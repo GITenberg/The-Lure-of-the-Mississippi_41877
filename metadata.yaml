@@ -1,0 +1,37 @@
+_repo: The-Lure-of-the-Mississippi_41877
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Howes, William L.
+    alias: Howes, W. L. (William L.)
+    gutenberg_agent_id: '45854'
+    url: http://www.gutenberg.org/2009/agents/45854
+covers:
+- cover_type: archival
+  image_path: 41877-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lange, D. (Dietrich)
+    alias: Lange, Dietrich
+    birthdate: 1863
+    deathdate: 1940
+    gutenberg_agent_id: '41409'
+    url: http://www.gutenberg.org/2009/agents/41409
+description: ''
+gutenberg_issued: '2013-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41877'
+  lccn: '17028332'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vicksburg (Miss.) -- History -- Siege, 1863 -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Mississippi River Valley -- Juvenile fiction'
+- !lcsh 'Minnesota -- Juvenile fiction'
+- !lcsh 'Dakota Indians -- Wars -- 1862-1865 -- Juvenile fiction'
+title: The Lure of the Mississippi
+url: http://www.gutenberg.org/ebooks/41877
