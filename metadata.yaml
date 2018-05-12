@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '41409'
     url: http://www.gutenberg.org/2009/agents/41409
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41877#The-Lure-of-the-Mississippi
 gutenberg_issued: '2013-01-19'
 gutenberg_type: Text
 identifiers:
